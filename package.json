@@ -1,0 +1,30 @@
+{
+  "name": "foodapp",
+  "version": "1.0.0",
+  "description": "A practice WebApp to learn RectJS to build a Food Ordering App.",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabhiskek4-crypto/FoodApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kabhiskek4-crypto/FoodApp/issues"
+  },
+  "homepage": "https://github.com/kabhiskek4-crypto/FoodApp#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "browserslist": [
+    "last 2 version"
+  ]
+}
