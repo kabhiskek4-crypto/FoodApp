@@ -1,8 +1,7 @@
 node_modules/
 dist/
 .cache/
-.parcel-cache/dat.mdb
-.parcel-cache/lock.mdb
+.parcel-cache/
 build/
 *.log
 *.env
